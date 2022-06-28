@@ -17,3 +17,12 @@ item3.innerText = "I say, \"Hi!\"";
 let image = document.querySelector('img');
 image.src = "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60";
 image.style.height = "300px";
+
+let image2 = document.querySelector('#image2');
+image2.src = "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60";
+image2.style.height = "300px";
+
+
+let item16 = document.querySelector('#item-16');
+item16.className = "item";
+item16.innerText = "Won't get fooled again.";
