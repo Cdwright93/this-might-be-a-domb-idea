@@ -19,7 +19,7 @@ image.src = "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=
 image.style.height = "300px";
 
 let image2 = document.querySelector('#image2');
-image2.src = "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60";
+image2.src = "https://www.americanshorthair.org/wp-content/uploads/2017/01/American-Shorthairs-Relaxing-1024x675.jpg";
 image2.style.height = "300px";
 
 
